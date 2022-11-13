@@ -11,4 +11,4 @@ spring:
           uri: https://github.com/AguRivarola/esp-back-i-parcial-Agustin-Rivarola
           default-label: develop
           force-pull: true
-          search-path: config-data
+          search-paths: config-data
